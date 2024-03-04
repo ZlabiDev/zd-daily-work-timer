@@ -18,7 +18,7 @@
                     "builder": "@angular-devkit/build-angular:browser",
                     "options": {
                         "outputPath": "docs",
-                        "baseHref": "/zd-motivation-quote/",
+                        "baseHref": "/zd-daily-work-timer/",
                         "index": "src/index.html",
                         "main": "src/main.ts",
                         "polyfills": [
